@@ -1,4 +1,4 @@
-# Stroop-color-word-test-PsychoPy-
+# Stroop-color-word-test-PsychoPy
 漢字の「赤」「青」「緑」を表示した文字の色を答えさせる課題の PsychoPy 3 用実験プログラムです。
 実験条件はtrialTypes.xlsxの12種類、反応時間はxlsxとcsvファイルに記録されます。
 
